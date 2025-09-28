@@ -1,7 +1,7 @@
 
 # Game Management System
 
-## 📌 Introduction
+## Introduction
 This project is a simple **Game Management System** implemented in Python.  
 It allows **Recruiters** to create and manage games, and **Players** to register for available games.  
 The project is entirely menu-driven and uses only in-memory data (lists and dictionaries).  
@@ -9,7 +9,7 @@ No external file/database is required.
 
 ---
 
-## 🎯 Features
+## Features
 ### Recruiter:
 - Create a new game (with name, slots, time, place)
 - Edit existing game details
@@ -22,12 +22,12 @@ No external file/database is required.
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 - Python 3.x (no external libraries required)
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 1. Save the code in a file named `game_management.py`  
 2. Open terminal/command prompt and run:
    ```bash
@@ -36,7 +36,7 @@ No external file/database is required.
 
 ---
 
-## 📂 Code Structure
+##  Code Structure
 - `create_game()` → Recruiter creates a game
 - `edit_game()` → Recruiter edits details of an existing game
 - `delete_game()` → Recruiter deletes a game
@@ -47,7 +47,7 @@ No external file/database is required.
 
 ---
 
-## ⚡ Example Usage
+##  Example Usage
 ```
 1. Recruiter
    1. Create Game
@@ -62,14 +62,14 @@ No external file/database is required.
 
 ---
 
-## 📌 Challenges
+##  Challenges
 - Managing slot availability for each game
 - Preventing duplicate player registrations
 - Keeping data updated when multiple actions are performed
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 This project demonstrates the use of **Python functions, lists, and dictionaries** to build a simple game management system.  
 It is suitable as a mini-project for students to practice programming concepts.
 
